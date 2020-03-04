@@ -1,2 +1,2 @@
-# Path_Regulation
-2020 computer competition working
+# Our Leetcode record
+share the ideas and make progress together!
