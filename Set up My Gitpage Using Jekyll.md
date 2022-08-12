@@ -43,11 +43,13 @@ and check if it is successfully installed by running: `jekyll -v`
 
 choose a module from http://jekyllthemes.org/
 
-fork the module repo, `jekyll new . --force`
+fork the module repo, `bundle init` to generate a gem file
+
+then add dependency from _config.yml_-plugins to gemfile
 
 if there is an error: Dependency Error..... Then run this code:
 
 `bundle add webrick`
 
-and finish! Now decorate your personal page!
+and finish by running `jekyll s`! Now decorate your personal page!
 
